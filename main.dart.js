@@ -32834,7 +32834,7 @@ A.a_4.prototype={
 $0(){},
 $S:0}
 A.Bj.prototype={
-O(a,b){return new A.rR(new A.r9(null),"Flutter Demo",A.a9s(null,B.pV),null)}}
+O(a,b){return new A.rR(new A.r9(null),"Controle PAX",A.a9s(null,B.pV),null)}}
 A.eb.prototype={
 h(a){return"AnimationStatus."+this.b}}
 A.cp.prototype={
