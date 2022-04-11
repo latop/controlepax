@@ -33015,7 +33015,7 @@ gab(a){return this.a}}
 A.jr.prototype={
 aw(){return new A.GK(B.l)}}
 A.GK.prototype={
-N(a,b){return A.Va(A.LP(A.co("Home Page")),A.kI(A.N1(A.a([A.aaE(A.co("Recupera Voos"),new A.a06(b)),A.aaE(A.co("Data from API"),new A.a07(b))],t.E),B.bs,B.dl,B.cc),null,null))}}
+N(a,b){return A.Va(A.LP(A.co("Home Page / Vers\xe3o [2022-04-11 12:06]")),A.kI(A.N1(A.a([A.aaE(A.co("Recupera Voos"),new A.a06(b)),A.aaE(A.co("Data from API"),new A.a07(b))],t.E),B.bs,B.dl,B.cc),null,null))}}
 A.a06.prototype={
 $0(){return A.BE(this.a).wS("/recuperavoos",t.X)},
 $S:0}
@@ -33054,7 +33054,7 @@ A.Ii.prototype={
 ow(){var s=0,r=A.a8(t.lX),q,p,o,n,m,l,k,j,i,h,g
 var $async$ow=A.a9(function(a,b){if(a===1)return A.a5(b,r)
 while(true)switch(s){case 0:h=t.N
-g=B.a1.fA(A.aD(["Chave","","tokenWeb","%$%^*76876756876&$%$@fy564tt76576twewtqapi","DataInicio","2022-03-01","DataFim","2022-03-10","LinhaVoo","GOL"],h,h))
+g=B.a1.fA(A.aD(["Chave","","tokenWeb","%$%^*76876756876&$%$@fy564tt76576twewtqapi","DataInicio","2022-04-01","DataFim","2022-04-30","LinhaVoo","GOL"],h,h))
 A.dU("Body: "+g)
 A.oZ("http://latop.sytes.net:7080/API/api/ControlePAX/ConsultaVoos")
 p=A.a6m("https","siglawebapi.azurewebsites.net","api/ControlePAX/ConsultaVoos",null)
