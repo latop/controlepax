@@ -35119,7 +35119,7 @@ A.lT.prototype={
 aw(){return new A.K_(B.k)}}
 A.K_.prototype={
 M(a,b){var s=null
-return A.Zh(A.Pg(A.b1("Home Page / Vers\xe3o [2022-04-11 15:24]",s,s,s,s,s,s)),A.lw(A.k2(A.b([A.a1o(A.b1("Recupera Voos",s,s,s,s,s,s),new A.a4G(b),s),A.a1o(A.b1("Data from API",s,s,s,s,s,s),new A.a4H(b),s)],t.F),B.aj,B.aX,B.ay),s,s))}}
+return A.Zh(A.Pg(A.b1("Home Page / Vers\xe3o [2022-04-14 16:24]",s,s,s,s,s,s)),A.lw(A.k2(A.b([A.a1o(A.b1("Recupera Voos",s,s,s,s,s,s),new A.a4G(b),s),A.a1o(A.b1("Data from API",s,s,s,s,s,s),new A.a4H(b),s)],t.F),B.aj,B.aX,B.ay),s,s))}}
 A.a4G.prototype={
 $0(){return A.kr(this.a,!1).A0("/recuperavoos",t.X)},
 $S:0}
