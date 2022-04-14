@@ -35156,8 +35156,8 @@ A.LA.prototype={
 qN(){var s=0,r=A.a7(t.hh),q,p,o,n,m,l,k,j,i
 var $async$qN=A.a8(function(a,b){if(a===1)return A.a4(b,r)
 while(true)switch(s){case 0:n=t.N
-m=B.ag.h5(A.ar(["Chave","","tokenWeb",u.a,"DataInicio","2022-03-01","DataFim","2022-03-30","LinhaVoo","GOL"],n,n))
-l=A.abH("http","localhost:2420","api/ControlePAX/ConsultaVoos",null)
+m=B.ag.h5(A.ar(["Chave","","tokenWeb",u.a,"DataInicio","2022-04-01","DataFim","2022-04-30","LinhaVoo","GOL"],n,n))
+l=A.abH("https","siglawebapi.azurewebsites.net","api/ControlePAX/ConsultaVoos",null)
 s=3
 return A.aa(A.aiL(l,m,A.ar(["content-type","application/json; charset=UTF-8"],n,n)),$async$qN)
 case 3:k=b
@@ -35175,7 +35175,7 @@ ZD(a){var s=0,r=A.a7(t.a),q,p,o,n,m
 var $async$qS=A.a8(function(b,c){if(b===1)return A.a4(c,r)
 while(true)switch(s){case 0:p=t.N
 o=B.ag.h5(A.ar(["Chave","","tokenWeb",u.a,"Voo",a.iV()],p,t.K))
-n=A.abH("http","localhost:2420","api/ControlePAX/AtualizaVoo",null)
+n=A.abH("https","siglawebapi.azurewebsites.net","api/ControlePAX/AtualizaVoo",null)
 s=3
 return A.aa(A.aiL(n,o,A.ar(["content-type","application/json; charset=UTF-8"],p,p)),$async$qS)
 case 3:m=c
