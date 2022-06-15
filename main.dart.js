@@ -36845,7 +36845,7 @@ return new A.Oy([A.aq(["title","Dt Oper","index",1,"key","dtoper","widthFactor",
 A.Oy.prototype={
 rE(){var s=0,r=A.Y(t.hh),q,p,o,n,m,l,k,j
 var $async$rE=A.Z(function(a,b){if(a===1)return A.V(b,r)
-while(true)switch(s){case 0:n=A.afK("https","siglaappteste.voepass.com.br","api/ControlePAX/ConsultaVoos",null)
+while(true)switch(s){case 0:n=A.afK("https","siglaapp.voepass.com.br","api/ControlePAX/ConsultaVoos",null)
 m=t.N
 s=3
 return A.a3(A.agd(n,A.aq(["content-type","application/json; charset=UTF-8"],m,m)),$async$rE)
@@ -36888,7 +36888,7 @@ s=A.a(a.y,"PaxAdt").length!==0&&A.a(a.z,"PaxChd").length!==0&&A.a(a.Q,"PaxInf").
 break
 case 3:o=t.N
 n=B.al.hr(A.aq(["Chave","","tokenWeb","%$%^*76876756876&$%$@fy564tt76576twewtqapi","Voo",a.j9()],o,t.K))
-m=A.afK("https","siglaappteste.voepass.com.br","api/ControlePAX/AtualizaVoo",null)
+m=A.afK("https","siglaapp.voepass.com.br","api/ControlePAX/AtualizaVoo",null)
 s=6
 return A.a3(A.aAW(m,n,A.aq(["content-type","application/json; charset=UTF-8"],o,o)),$async$rJ)
 case 6:l=d
